@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ADDCopiaAgenda</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="recharge">Volver a cargar la agenda</string>
+    <string name="internalC">contactos.csv</string>
+    <string name="externalC">contactosSIM.csv</string>
+    <string name="save">Guardar</string>
+    <string name="toedit">Pulsa sobre una entrada de la agenda para editarla.</string>
+    <string name="memorystyle">estilo</string>
+    <string name="tipo">mitipo</string>
+    <string name="choicememorytitle">Decida dónde guardar su lista.</string>
+    <string name="choicememory">¿Desea almacenar la lista en la memoria interna (teléfono), o en la externa (tarjeta SD)?</string>
+    <string name="choiceint">INTERNA</string>
+    <string name="choiceext">EXTERNA</string>
+    <string name="listo">LISTO</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="deleting">BORRANDO...</string>
+    <string name="permissionRequired">Se requieren permisos para cargar los Contactos.\nHabilítalos desde Ajustes > Aplicaciones > Permisos.</string>
+</resources>
